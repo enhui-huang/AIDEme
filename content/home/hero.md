@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "AIDEme"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "system.png"
+hero_media = "big_data.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -42,7 +42,7 @@ hero_media = "system.png"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "https://github.com/lucianodp/explore_by_example"
-  label = "Get Started"
+  label = "Coming soon"
   icon_pack = "fas"
   icon = "download"
   

@@ -51,8 +51,15 @@ subtitle = ""
 +++
 
 </br>
+There is an increasing gap between fast growth of data and limited human ability to comprehend data. Consequently, there has been a growing demand for analytics tools that can bridge this gap and help the user retrieve high-value content from data. In this project, we develop AIDEme, a scalable interactive data exploration system for efficiently learning a user interest pattern over a large dataset. The system is cast in a principled active learning (AL) framework, which iteratively presents strategically selected records for user labeling, thereby building an increasingly-more-accurate model of the user interest. However, existing AL techniques experience slow convergence when learning the user interest on large datasets. To overcome the problem, AIDEme explores properties of the user labeling process and the class distribution of observed data to design new AL algorithms, which come with provable results on model accuracy and approximation, and have evaluation results  showing much improved convergence over existing AL methods while maintaining interactive speed.
+ 
+</br>
+</br>
 
-A challenge in building an active learning-based interactive data exploration system is that existing active learning techniques experience **slowconvergence** in learning the user interest when such exploration is performed on **large datasets**: for example, hundreds of labeled examples are needed to learn a user interest model over 6 attributes, as we showed using a digital sky survey of 1.9 million records. AIDEme employs a set of novel techniques to overcome the slow convergence problem:
+{{< figure library="true" src="system.png" caption="System Overview" lightbox="true" >}}
+
+
+AIDEme employs a set of novel techniques to overcome the **slow convergence problem**:
 
 * <span style="color:#6A99D0">**Factorization**</span>: We observe that a user labels a data record, her decision making process often can be broken into a set of smaller questions, and the answers to these questions can be combined to derive the final answer. This insight, formally modeled as a factorization structure, allows us to design new active learning algorithms, e.g., factorized version space algorithms, that break the learning problem into subproblems in a set of subspaces and perform active learning in each subspace, thereby significantly expediting convergence.
 
@@ -61,6 +68,3 @@ A challenge in building an active learning-based interactive data exploration sy
 * <span style="color:#6A99D0">**Formal results on convergence**</span>: We further provide theoretical results on the convergence of our proposed techniques. Some of them can be used to detect convergence and terminate the exploration process.
 
 * <span style="color:#6A99D0">**Scaling to large datasets**</span>: In many applications the dataset may be too large to fit in memory. In this case, we introduce subsampling procedures and provide provable results that guarantee the performance of the model learned from the sample over the entire data source.
-
-</br>
-{{< figure library="true" src="big_data.png" lightbox="true" >}}
