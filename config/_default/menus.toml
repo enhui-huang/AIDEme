@@ -5,30 +5,30 @@
 
 [[main]]
   name = "AIDEme"
-  url = "#about"
+  url = "#intro"
   weight = 10
+
+[[main]]
+  name = "Members"
+  url = "#members"
+  weight = 20
+  #identifier = "something"
+
+[[main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 30
+  
+[[main]]
+  name = "Datasets"
+  url = "#datasets"
+  weight = 40
+  #Parent = "something"
 
 [[main]]
   name = "Posts"
   url = "#posts"
-  weight = 20
-
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
-  identifier = "something"
-
-[[main]]
-  name = "Test"
-  url = "#test"
-  weight = 30
-  Parent = "something"
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"

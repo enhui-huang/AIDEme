@@ -5,8 +5,8 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 25  # Order that this section will appear.
 
 title = "Demos"
 subtitle = ""
@@ -29,8 +29,8 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "big_data.png"  # Name of image in `static/img/`.
+  image_darken = 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
@@ -38,9 +38,9 @@ subtitle = ""
   # Text color (true=light or false=dark).
   text_color_light = true
 
-[design.spacing]
+  # [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  # padding = ["20px", "0", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+<!--Welcome to the **personal demo** of Academic. Other demos available include:
 
 - [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
 
@@ -63,3 +63,4 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
 {{% /alert %}}
+-->
