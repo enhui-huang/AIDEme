@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "AIDEme"
   url = "#about"
   weight = 10
 
@@ -17,6 +17,13 @@
   name = "Projects"
   url = "#projects"
   weight = 30
+  identifier = "something"
+
+[[main]]
+  name = "Test"
+  url = "#test"
+  weight = 30
+  Parent = "something"
 
 [[main]]
   name = "Publications"
