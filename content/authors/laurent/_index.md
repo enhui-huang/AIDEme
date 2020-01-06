@@ -1,43 +1,40 @@
 ---
 # Display name
-name: Yanlei Diao
-weight: 5
+name: Laurent Cetinsoy
+
 
 # Username (this should match the folder name)
 authors:
-- yanlei
+- laurent
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor
+role: Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: École Polytechnique
-  url: "https://www.polytechnique.edu/en"
+- name: Nowledgeable
+  url: "https://nowledgeable.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Big data analytics and data management systems, with a focus on big and fast data analytics, interactive data exploration, data streams, uncertain data management, genomic data analysis, sensor data management, publish/subscribe, and XML query processing.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Databases
-- Big Data Analytics
+- Machine Learning
 - Artificial Intelligence
+- Software Engineering
 
 education:
   courses:
-  - course: Ph.D., Electrical Engineering and Computer Science
-    institution: University of California, Berkeley 
-    year: 2005
-  - course: M.S., Computer Science
-    institution: Hong Kong University of Science and Technology 
-    year: 2000
-  - course: B.S., Computer Science
-    institution: Fudan University
-    year: 1998
-
+  - course: M.S., Apprentissage Information Contenu Intelligence artificielle
+    institution: Université Pari-Saclay
+    year: 2017
+  - course: M.S., Nanoscience
+    institution: Grenoble INP - Phelma
+    year: 2012
+ 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -67,8 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Professors
+- Engineers
 ---
 
 <!--Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.

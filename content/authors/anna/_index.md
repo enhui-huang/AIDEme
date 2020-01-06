@@ -1,11 +1,11 @@
 ---
 # Display name
-name: Yanlei Diao
-weight: 5
+name: Anna Liu
+weight: 10
 
 # Username (this should match the folder name)
 authors:
-- yanlei
+- anna
 
 # Is this the primary user of the site?
 superuser: true
@@ -15,28 +15,28 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: École Polytechnique
-  url: "https://www.polytechnique.edu/en"
+- name: University of Massachusetts Amherst
+  url: "https://www.umass.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Big data analytics and data management systems, with a focus on big and fast data analytics, interactive data exploration, data streams, uncertain data management, genomic data analysis, sensor data management, publish/subscribe, and XML query processing.
+bio: I am a statistician with broad interest in nonparametric and semiparametric modeling, computation, statistical learning, and applications. The central theme of my methodology research is to build models that utilize domain knowledge and are exible with minimum assumptions. For nonparametric and semiparametric modeling, I am particularly drawn toward splines, kernel machines and mixed model based approaches. For statistical learning, my focus is on design of learning algorithms and data processing methods related to databases. My methodology research is intertwined with my applied interests through collaborations with scientists from a variety of disciplines. 
 
 interests:
-- Databases
-- Big Data Analytics
-- Artificial Intelligence
+- Nonparametric and Semiparametric Modeling
+- Statistical Learning
+- Interactive data exploration and active learning
 
 education:
   courses:
-  - course: Ph.D., Electrical Engineering and Computer Science
-    institution: University of California, Berkeley 
-    year: 2005
-  - course: M.S., Computer Science
-    institution: Hong Kong University of Science and Technology 
+  - course: Ph.D., Statistics
+    institution: University of California at Santa Barbara
+    year: 2004
+  - course: M.S., Statistics
+    institution: Institute of Systems Science, Chinese Academy of Science
     year: 2000
-  - course: B.S., Computer Science
-    institution: Fudan University
-    year: 1998
+  - course: B.S., Statistics
+    institution: Peking University
+    year: 1997
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
