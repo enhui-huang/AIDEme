@@ -1,42 +1,30 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+# Website for our project AIDEme <img src="static/img/logo_aideme.png" width="36">
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+**AIDEme** is a scalable interactive data exploration system for efficiently learning a user interest pattern over a large dataset.
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+**Project Members**
 
-## Install
+- [Yanlei Diao](http://www.lix.polytechnique.fr/~yanlei.diao/)
+- [Anna Liu](https://people.math.umass.edu/~anna/)
+- [Enhui Huang](https://enhui-huang.github.io/)
+- [Luciano Di Palma](https://lucianodp.netlify.com/)
+- Bastien van Delft
+- Laurent Cetinsoy
 
-You can choose from one of the following four methods to install:
+**Publications** 
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+- Huang, E., Peng, L., Di Palma, L., Abdelka, A., Liu, A. & Diao, Y. _Optimization for active learning-based interactive database exploration_. Proceedings of the VLDB Endowment (PVLDB), 12(1), 71-84, September 2018.
+- Di Palma, L., Diao, Y. & Liu, A. _A Factorized Version Space Algorithm for Human-In-the-Loop" Data Exploration_. IEEE International Conference on Data Mining (ICDM), November 2019.
+- Huang, E., Di Palma, L., Cetinsoy, L., Diao, Y. & Liu, A. _AIDEme: An active learning based system for interactive exploration of large datasets_. Conference on Neural Information Processing Systems (NeurIPS, Demo), December 2019.
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
 
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
 ## License
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
+Copyright 2018-present [Enhui Huang](https://enhui-huang.github.io/).
 
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+<!--Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.-->
 
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+<!--[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)-->
