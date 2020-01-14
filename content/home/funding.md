@@ -50,4 +50,4 @@ subtitle = ""
  css_class = ""
 +++
 
-This project is funded by <span style="color:#6A99D0">**the ANR grant**</span>, <span style="color:#6A99D0">**the IDEX Chaire**</span>, and <span style="color:#6A99D0">**AMX fellowship**</span> (for Luciano).
+This project is funded by <span style="color:#6A99D0">[**the ANR grant**](https://anr.fr/en/)</span>, <span style="color:#6A99D0">**the IDEX Chaire**</span>, and <span style="color:#6A99D0">[**AMX fellowship**](https://www.polytechnique.edu/programmedoctoral/fr/financement-amx)</span> (for Luciano).
