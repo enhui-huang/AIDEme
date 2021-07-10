@@ -18,42 +18,45 @@ organizations:
   url: "https://www.polytechnique.edu/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, active learning, and interactive data explorarion.
+bio: Luciano Di Palma is a PhD student in Machine Learning and Data Management at the CEDAR team, in Inria Saclay. His main research interest is designing scalable intelligent analytics systems with strong theoretical performance guarantees and leveraging state-of-the-art machine learning and statistical techniques.
 
 interests:
 - Machine Learning
-- Data Exploration
-- Deep Learning
+- Scalable Systems
+- Statistical Modeling
 
 education:
   courses:
-  - course: PhD student in Computer Science
+  - course: PhD student in Machine Learning and Data Management
     institution: École Polytechnique
-    year: 2017-present
-  - course: M.S., Data Science
-    institution: École Polytechnique
-    year: 2017
-  - course: B.S., Physics
+    year: 2017–2021
+  - course: M.Sc. in Data Science
+    institution: Université Paris-Saclay
+    year: 2016–2017
+  - course: Cycle Ingénieur Polytechnicien
+    institution: Ecole Polytechnique
+    year: 2014–2016
+  - course: B.Sc. in Physics
     institution: University of São Paulo
-    year: 2013
+    year: 2011–2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-<!--social:
+social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:luciano.di-palma@polytechnique.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: address-card
+  icon_pack: fas
+  link: https://lucianodp.netlify.com
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=1MU4LZIAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen-->
+  link: https://github.com/lucianodp
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +72,4 @@ user_groups:
 - PhD Students
 ---
 
-<!--Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.-->
+Luciano Di Palma is a PhD student in Machine Learning and Data Management at the CEDAR team, in Inria Saclay. His main research interest is designing scalable intelligent analytics systems with strong theoretical performance guarantees and leveraging state-of-the-art machine learning and statistical techniques.
