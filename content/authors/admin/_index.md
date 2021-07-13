@@ -4,7 +4,7 @@ name: Enhui Huang
 
 # Username (this should match the folder name)
 authors:
-- enhui
+- admin
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,10 +45,10 @@ education:
 social:
 <!--- icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen-->
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".-->
+- icon: address-card
+  icon_pack: fas
+  link: https://enhui-huang.github.io/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=auyIGT4AAAAJ
