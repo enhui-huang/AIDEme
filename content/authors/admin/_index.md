@@ -22,8 +22,6 @@ bio: My research interests include machine learning (in particular active learni
 
 interests:
 - Machine Learning
-<!--- Active Learning
--->
 - Interactive Data Exploration
 - Artificial Intelligence
 
@@ -44,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-<!--- icon: envelope
+- icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".-->
+  link: 'mailto:enhui.huang@qq.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: address-card
   icon_pack: fas
   link: https://enhui-huang.github.io
