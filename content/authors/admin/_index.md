@@ -21,15 +21,17 @@ organizations:
 bio: My research interests include machine learning (in particular active learning) and interactive data exploration.
 
 interests:
-- Active Learning
+- Machine Learning
+<!--- Active Learning
+-->
 - Interactive Data Exploration
 - Artificial Intelligence
 
 education:
   courses:
-  - course: PhD student in Computer Science
+  - course: Ph.D., Computer Science
     institution: École Polytechnique
-    year: 2016-present
+    year: 2021
   - course: M.S., Data Science
     institution: École Polytechnique
     year: 2016
@@ -41,19 +43,19 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-<!--social:
-- icon: envelope
+social:
+<!--- icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".-->
+- icon: address-card
+  icon_pack: fas
+  link: https://enhui-huang.github.io
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=en&user=auyIGT4AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen-->
+  link: https://github.com/enhui-huang
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
