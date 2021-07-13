@@ -42,13 +42,13 @@ hero_media = "big_data.png"
 #   Remove a link/note by deleting a cta/note block.
 
 [cta]
-  url = "https://gitlab.inria.fr/ldipalma/aideme"
+  url = "https://gitlab.inria.fr/aideme/aideme-web"
   label = "Coming soon"
   icon_pack = "fas"
   icon = "download"
   
 [cta_alt]
-  url = "https://gitlab.inria.fr/ldipalma/aideme"
+  url = "https://gitlab.inria.fr/aideme/aideme-web"
   label = "View Documentation"
 
 # Todo: add the version later. Note. An optional note to show underneath the links.
